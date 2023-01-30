@@ -1,0 +1,1649 @@
+{
+	"projectRooms": [
+		{
+			"id": 5,
+			"FloorName": "A-TEMEL",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "A-TEMEL",
+			"RoomName": "A-TEMEL",
+			"RoomArea": 5,
+			"RoomPerimeter": 5,
+			"RoomHeight": 5
+		},
+		{
+			"id": 6,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B01",
+			"RoomName": "KORİDOR",
+			"RoomArea": 6,
+			"RoomPerimeter": 6,
+			"RoomHeight": 6
+		},
+		{
+			"id": 7,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B02",
+			"RoomName": "BYN PERSONEL",
+			"RoomArea": 7,
+			"RoomPerimeter": 7,
+			"RoomHeight": 7
+		},
+		{
+			"id": 8,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B03",
+			"RoomName": "BAY PERSONEL",
+			"RoomArea": 8,
+			"RoomPerimeter": 8,
+			"RoomHeight": 8
+		},
+		{
+			"id": 9,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B04",
+			"RoomName": "TEMİZLİK MALZ. DEP.",
+			"RoomArea": 9,
+			"RoomPerimeter": 9,
+			"RoomHeight": 9
+		},
+		{
+			"id": 10,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B05",
+			"RoomName": "TEKNİSYEN ODASI",
+			"RoomArea": 10,
+			"RoomPerimeter": 10,
+			"RoomHeight": 10
+		},
+		{
+			"id": 11,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B06",
+			"RoomName": "ANA PANO ODASI",
+			"RoomArea": 11,
+			"RoomPerimeter": 11,
+			"RoomHeight": 11
+		},
+		{
+			"id": 12,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B07",
+			"RoomName": "YAN.MER.",
+			"RoomArea": 12,
+			"RoomPerimeter": 12,
+			"RoomHeight": 12
+		},
+		{
+			"id": 13,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B08",
+			"RoomName": "Y.G.H.",
+			"RoomArea": 13,
+			"RoomPerimeter": 13,
+			"RoomHeight": 13
+		},
+		{
+			"id": 14,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B08'",
+			"RoomName": "PANO ODASI",
+			"RoomArea": 14,
+			"RoomPerimeter": 14,
+			"RoomHeight": 14
+		},
+		{
+			"id": 15,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B09",
+			"RoomName": "AMBAR",
+			"RoomArea": 15,
+			"RoomPerimeter": 15,
+			"RoomHeight": 15
+		},
+		{
+			"id": 16,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B10",
+			"RoomName": "MAL KABUL",
+			"RoomArea": 16,
+			"RoomPerimeter": 16,
+			"RoomHeight": 16
+		},
+		{
+			"id": 17,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B11",
+			"RoomName": "ÇÖP ODASI",
+			"RoomArea": 17,
+			"RoomPerimeter": 17,
+			"RoomHeight": 17
+		},
+		{
+			"id": 18,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B12",
+			"RoomName": "KÖMÜRLÜK",
+			"RoomArea": 18,
+			"RoomPerimeter": 18,
+			"RoomHeight": 18
+		},
+		{
+			"id": 19,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B13",
+			"RoomName": "TESHİN MERKEZİ",
+			"RoomArea": 19,
+			"RoomPerimeter": 19,
+			"RoomHeight": 19
+		},
+		{
+			"id": 20,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B14",
+			"RoomName": "Y.G.H.",
+			"RoomArea": 20,
+			"RoomPerimeter": 20,
+			"RoomHeight": 20
+		},
+		{
+			"id": 21,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B15",
+			"RoomName": "SU DEPOSU+KLİMA SANTRALİ",
+			"RoomArea": 21,
+			"RoomPerimeter": 21,
+			"RoomHeight": 21
+		},
+		{
+			"id": 22,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B16",
+			"RoomName": "ÇAMAŞIRHANE",
+			"RoomArea": 22,
+			"RoomPerimeter": 22,
+			"RoomHeight": 22
+		},
+		{
+			"id": 23,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B16'",
+			"RoomName": "ŞEF OD.",
+			"RoomArea": 23,
+			"RoomPerimeter": 23,
+			"RoomHeight": 23
+		},
+		{
+			"id": 24,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B17",
+			"RoomName": "YEDEK MALZ. DEP.",
+			"RoomArea": 24,
+			"RoomPerimeter": 24,
+			"RoomHeight": 24
+		},
+		{
+			"id": 25,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B18",
+			"RoomName": "DEMİRBAŞ EŞYA DEP.",
+			"RoomArea": 25,
+			"RoomPerimeter": 25,
+			"RoomHeight": 25
+		},
+		{
+			"id": 26,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B19",
+			"RoomName": "SIĞINAK",
+			"RoomArea": 26,
+			"RoomPerimeter": 26,
+			"RoomHeight": 26
+		},
+		{
+			"id": 27,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B20",
+			"RoomName": "BAYAN WC",
+			"RoomArea": 27,
+			"RoomPerimeter": 27,
+			"RoomHeight": 27
+		},
+		{
+			"id": 28,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B21",
+			"RoomName": "BAY WC",
+			"RoomArea": 28,
+			"RoomPerimeter": 28,
+			"RoomHeight": 28
+		},
+		{
+			"id": 29,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B22",
+			"RoomName": "Y.G.H.",
+			"RoomArea": 29,
+			"RoomPerimeter": 29,
+			"RoomHeight": 29
+		},
+		{
+			"id": 30,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B23",
+			"RoomName": "ANA MERDİVEN",
+			"RoomArea": 30,
+			"RoomPerimeter": 30,
+			"RoomHeight": 30
+		},
+		{
+			"id": 31,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B24",
+			"RoomName": "SER. MER.",
+			"RoomArea": 31,
+			"RoomPerimeter": 31,
+			"RoomHeight": 31
+		},
+		{
+			"id": 32,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B25",
+			"RoomName": "SERVİS KORİDORU",
+			"RoomArea": 32,
+			"RoomPerimeter": 32,
+			"RoomHeight": 32
+		},
+		{
+			"id": 33,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B26",
+			"RoomName": "MUTFAK",
+			"RoomArea": 33,
+			"RoomPerimeter": 33,
+			"RoomHeight": 33
+		},
+		{
+			"id": 34,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B27",
+			"RoomName": "BULAŞIK",
+			"RoomArea": 34,
+			"RoomPerimeter": 34,
+			"RoomHeight": 34
+		},
+		{
+			"id": 35,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B28",
+			"RoomName": "SOĞUK DEPO",
+			"RoomArea": 35,
+			"RoomPerimeter": 35,
+			"RoomHeight": 35
+		},
+		{
+			"id": 36,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B29",
+			"RoomName": "SOĞUK DEPO",
+			"RoomArea": 36,
+			"RoomPerimeter": 36,
+			"RoomHeight": 36
+		},
+		{
+			"id": 37,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B30",
+			"RoomName": "SOĞUK DEPO",
+			"RoomArea": 37,
+			"RoomPerimeter": 37,
+			"RoomHeight": 37
+		},
+		{
+			"id": 38,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B31",
+			"RoomName": "GÜNLÜK DEPO",
+			"RoomArea": 38,
+			"RoomPerimeter": 38,
+			"RoomHeight": 38
+		},
+		{
+			"id": 39,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B32",
+			"RoomName": "KURU GIDA DEPOSU",
+			"RoomArea": 39,
+			"RoomPerimeter": 39,
+			"RoomHeight": 39
+		},
+		{
+			"id": 40,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B33",
+			"RoomName": "YÖNETİM ARŞİV",
+			"RoomArea": 40,
+			"RoomPerimeter": 40,
+			"RoomHeight": 40
+		},
+		{
+			"id": 41,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B34",
+			"RoomName": "MEŞRUBAT DEPO",
+			"RoomArea": 41,
+			"RoomPerimeter": 41,
+			"RoomHeight": 41
+		},
+		{
+			"id": 42,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B35",
+			"RoomName": "FITNESS MALZEME DEPO",
+			"RoomArea": 42,
+			"RoomPerimeter": 42,
+			"RoomHeight": 42
+		},
+		{
+			"id": 43,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B36",
+			"RoomName": "PERS.YEMEK",
+			"RoomArea": 43,
+			"RoomPerimeter": 43,
+			"RoomHeight": 43
+		},
+		{
+			"id": 44,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B37",
+			"RoomName": "BERBER",
+			"RoomArea": 44,
+			"RoomPerimeter": 44,
+			"RoomHeight": 44
+		},
+		{
+			"id": 45,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B38",
+			"RoomName": "KUAFÖR",
+			"RoomArea": 45,
+			"RoomPerimeter": 45,
+			"RoomHeight": 45
+		},
+		{
+			"id": 46,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B39",
+			"RoomName": "ŞEF",
+			"RoomArea": 46,
+			"RoomPerimeter": 46,
+			"RoomHeight": 46
+		},
+		{
+			"id": 47,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B40",
+			"RoomName": "TEM.OD.",
+			"RoomArea": 47,
+			"RoomPerimeter": 47,
+			"RoomHeight": 47
+		},
+		{
+			"id": 48,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B41",
+			"RoomName": "SERVİS AVLUSU",
+			"RoomArea": 48,
+			"RoomPerimeter": 48,
+			"RoomHeight": 48
+		},
+		{
+			"id": 49,
+			"FloorName": "B-BODRUM_KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "B42",
+			"RoomName": "DM3",
+			"RoomArea": 49,
+			"RoomPerimeter": 49,
+			"RoomHeight": 49
+		},
+		{
+			"id": 50,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z01",
+			"RoomName": "LOBİ-FUAYE",
+			"RoomArea": 50,
+			"RoomPerimeter": 50,
+			"RoomHeight": 50
+		},
+		{
+			"id": 51,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z02",
+			"RoomName": "İDARİ",
+			"RoomArea": 51,
+			"RoomPerimeter": 51,
+			"RoomHeight": 51
+		},
+		{
+			"id": 52,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z03",
+			"RoomName": "NÖBETÇİ",
+			"RoomArea": 52,
+			"RoomPerimeter": 52,
+			"RoomHeight": 52
+		},
+		{
+			"id": 53,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z04",
+			"RoomName": "MÜDÜR Y.",
+			"RoomArea": 53,
+			"RoomPerimeter": 53,
+			"RoomHeight": 53
+		},
+		{
+			"id": 54,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z05",
+			"RoomName": "MÜDÜR Y.",
+			"RoomArea": 54,
+			"RoomPerimeter": 54,
+			"RoomHeight": 54
+		},
+		{
+			"id": 55,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z06",
+			"RoomName": "RESEPSİYON",
+			"RoomArea": 55,
+			"RoomPerimeter": 55,
+			"RoomHeight": 55
+		},
+		{
+			"id": 56,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z06'",
+			"RoomName": "BAVUL",
+			"RoomArea": 56,
+			"RoomPerimeter": 56,
+			"RoomHeight": 56
+		},
+		{
+			"id": 57,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z07",
+			"RoomName": "MÜDÜR",
+			"RoomArea": 57,
+			"RoomPerimeter": 57,
+			"RoomHeight": 57
+		},
+		{
+			"id": 58,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z08",
+			"RoomName": "SATIŞ",
+			"RoomArea": 58,
+			"RoomPerimeter": 58,
+			"RoomHeight": 58
+		},
+		{
+			"id": 59,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z09",
+			"RoomName": "ARŞİV",
+			"RoomArea": 59,
+			"RoomPerimeter": 59,
+			"RoomHeight": 59
+		},
+		{
+			"id": 60,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z10",
+			"RoomName": "ÖN BÜRO",
+			"RoomArea": 60,
+			"RoomPerimeter": 60,
+			"RoomHeight": 60
+		},
+		{
+			"id": 61,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z11",
+			"RoomName": "YANGIN KOR.",
+			"RoomArea": 61,
+			"RoomPerimeter": 61,
+			"RoomHeight": 61
+		},
+		{
+			"id": 62,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z12",
+			"RoomName": "YAN. MER.",
+			"RoomArea": 62,
+			"RoomPerimeter": 62,
+			"RoomHeight": 62
+		},
+		{
+			"id": 63,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z13",
+			"RoomName": "Y.G.H.",
+			"RoomArea": 63,
+			"RoomPerimeter": 63,
+			"RoomHeight": 63
+		},
+		{
+			"id": 64,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z14",
+			"RoomName": "PANO ODASI",
+			"RoomArea": 64,
+			"RoomPerimeter": 64,
+			"RoomHeight": 64
+		},
+		{
+			"id": 65,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z15",
+			"RoomName": "BYN WC",
+			"RoomArea": 65,
+			"RoomPerimeter": 65,
+			"RoomHeight": 65
+		},
+		{
+			"id": 66,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z16",
+			"RoomName": "BYN ENG WC",
+			"RoomArea": 66,
+			"RoomPerimeter": 66,
+			"RoomHeight": 66
+		},
+		{
+			"id": 67,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z17",
+			"RoomName": "BAY WC",
+			"RoomArea": 67,
+			"RoomPerimeter": 67,
+			"RoomHeight": 67
+		},
+		{
+			"id": 68,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z18",
+			"RoomName": "BAY ENG WC",
+			"RoomArea": 68,
+			"RoomPerimeter": 68,
+			"RoomHeight": 68
+		},
+		{
+			"id": 69,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z19",
+			"RoomName": "BAY SPOR SALONU",
+			"RoomArea": 69,
+			"RoomPerimeter": 69,
+			"RoomHeight": 69
+		},
+		{
+			"id": 70,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z20",
+			"RoomName": "BAY SOY.",
+			"RoomArea": 70,
+			"RoomPerimeter": 70,
+			"RoomHeight": 70
+		},
+		{
+			"id": 71,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z21",
+			"RoomName": "BYN SOY.",
+			"RoomArea": 71,
+			"RoomPerimeter": 71,
+			"RoomHeight": 71
+		},
+		{
+			"id": 72,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z22",
+			"RoomName": "BAYAN SPOR SALONU",
+			"RoomArea": 72,
+			"RoomPerimeter": 72,
+			"RoomHeight": 72
+		},
+		{
+			"id": 73,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z23",
+			"RoomName": "BÖLÜNEBİLİR Ç.A.S.",
+			"RoomArea": 73,
+			"RoomPerimeter": 73,
+			"RoomHeight": 73
+		},
+		{
+			"id": 74,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z24",
+			"RoomName": "PROJEKSİYON",
+			"RoomArea": 74,
+			"RoomPerimeter": 74,
+			"RoomHeight": 74
+		},
+		{
+			"id": 75,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z25",
+			"RoomName": "HAZIRLIK",
+			"RoomArea": 75,
+			"RoomPerimeter": 75,
+			"RoomHeight": 75
+		},
+		{
+			"id": 76,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z26",
+			"RoomName": "HAZIRLIK",
+			"RoomArea": 76,
+			"RoomPerimeter": 76,
+			"RoomHeight": 76
+		},
+		{
+			"id": 77,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z27",
+			"RoomName": "YANGIN KOR.",
+			"RoomArea": 77,
+			"RoomPerimeter": 77,
+			"RoomHeight": 77
+		},
+		{
+			"id": 78,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z28",
+			"RoomName": "ANA MERDİVEN",
+			"RoomArea": 78,
+			"RoomPerimeter": 78,
+			"RoomHeight": 78
+		},
+		{
+			"id": 79,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z29",
+			"RoomName": "VESTİYER",
+			"RoomArea": 79,
+			"RoomPerimeter": 79,
+			"RoomHeight": 79
+		},
+		{
+			"id": 80,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z30",
+			"RoomName": "SER. MER.",
+			"RoomArea": 80,
+			"RoomPerimeter": 80,
+			"RoomHeight": 80
+		},
+		{
+			"id": 81,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z31",
+			"RoomName": "SERVİS-AÇIK BÜFE",
+			"RoomArea": 81,
+			"RoomPerimeter": 81,
+			"RoomHeight": 81
+		},
+		{
+			"id": 82,
+			"FloorName": "C-ZEMİN KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z32",
+			"RoomName": "YEMEK SALONU(80 Kişilik)",
+			"RoomArea": 82,
+			"RoomPerimeter": 82,
+			"RoomHeight": 82
+		},
+		{
+			"id": 83,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 101,
+			"RoomName": "KAT HOLÜ",
+			"RoomArea": 83,
+			"RoomPerimeter": 83,
+			"RoomHeight": 83
+		},
+		{
+			"id": 84,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 102,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 84,
+			"RoomPerimeter": 84,
+			"RoomHeight": 84
+		},
+		{
+			"id": 85,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 103,
+			"RoomName": "BANYO",
+			"RoomArea": 85,
+			"RoomPerimeter": 85,
+			"RoomHeight": 85
+		},
+		{
+			"id": 86,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 104,
+			"RoomName": "BANYO",
+			"RoomArea": 86,
+			"RoomPerimeter": 86,
+			"RoomHeight": 86
+		},
+		{
+			"id": 87,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 105,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 87,
+			"RoomPerimeter": 87,
+			"RoomHeight": 87
+		},
+		{
+			"id": 88,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 106,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 88,
+			"RoomPerimeter": 88,
+			"RoomHeight": 88
+		},
+		{
+			"id": 89,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 107,
+			"RoomName": "BANYO",
+			"RoomArea": 89,
+			"RoomPerimeter": 89,
+			"RoomHeight": 89
+		},
+		{
+			"id": 90,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 108,
+			"RoomName": "DOKTOR/İSG",
+			"RoomArea": 90,
+			"RoomPerimeter": 90,
+			"RoomHeight": 90
+		},
+		{
+			"id": 91,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 109,
+			"RoomName": "YAN.MER.",
+			"RoomArea": 91,
+			"RoomPerimeter": 91,
+			"RoomHeight": 91
+		},
+		{
+			"id": 92,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 110,
+			"RoomName": "Y.G.H.",
+			"RoomArea": 92,
+			"RoomPerimeter": 92,
+			"RoomHeight": 92
+		},
+		{
+			"id": 93,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 111,
+			"RoomName": "BYN ABDESTLİK",
+			"RoomArea": 93,
+			"RoomPerimeter": 93,
+			"RoomHeight": 93
+		},
+		{
+			"id": 94,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 112,
+			"RoomName": "BAYAN MESCİD",
+			"RoomArea": 94,
+			"RoomPerimeter": 94,
+			"RoomHeight": 94
+		},
+		{
+			"id": 95,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 113,
+			"RoomName": "BAY ABDESTLİK",
+			"RoomArea": 95,
+			"RoomPerimeter": 95,
+			"RoomHeight": 95
+		},
+		{
+			"id": 96,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 114,
+			"RoomName": "BAY MESCİD",
+			"RoomArea": 96,
+			"RoomPerimeter": 96,
+			"RoomHeight": 96
+		},
+		{
+			"id": 97,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 115,
+			"RoomName": "TOPLANTI ODASI",
+			"RoomArea": 97,
+			"RoomPerimeter": 97,
+			"RoomHeight": 97
+		},
+		{
+			"id": 98,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 116,
+			"RoomName": "VIP ODASI",
+			"RoomArea": 98,
+			"RoomPerimeter": 98,
+			"RoomHeight": 98
+		},
+		{
+			"id": 99,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 117,
+			"RoomName": "BANYO",
+			"RoomArea": 99,
+			"RoomPerimeter": 99,
+			"RoomHeight": 99
+		},
+		{
+			"id": 100,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 118,
+			"RoomName": "BANYO",
+			"RoomArea": 100,
+			"RoomPerimeter": 100,
+			"RoomHeight": 100
+		},
+		{
+			"id": 101,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 119,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 101,
+			"RoomPerimeter": 101,
+			"RoomHeight": 101
+		},
+		{
+			"id": 102,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 120,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 102,
+			"RoomPerimeter": 102,
+			"RoomHeight": 102
+		},
+		{
+			"id": 103,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 121,
+			"RoomName": "BANYO",
+			"RoomArea": 103,
+			"RoomPerimeter": 103,
+			"RoomHeight": 103
+		},
+		{
+			"id": 104,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 122,
+			"RoomName": "BANYO",
+			"RoomArea": 104,
+			"RoomPerimeter": 104,
+			"RoomHeight": 104
+		},
+		{
+			"id": 105,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 123,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 105,
+			"RoomPerimeter": 105,
+			"RoomHeight": 105
+		},
+		{
+			"id": 106,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 124,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 106,
+			"RoomPerimeter": 106,
+			"RoomHeight": 106
+		},
+		{
+			"id": 107,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 125,
+			"RoomName": "BANYO",
+			"RoomArea": 107,
+			"RoomPerimeter": 107,
+			"RoomHeight": 107
+		},
+		{
+			"id": 108,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 126,
+			"RoomName": "BANYO",
+			"RoomArea": 108,
+			"RoomPerimeter": 108,
+			"RoomHeight": 108
+		},
+		{
+			"id": 109,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 127,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 109,
+			"RoomPerimeter": 109,
+			"RoomHeight": 109
+		},
+		{
+			"id": 110,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 128,
+			"RoomName": "ANA MERDİVEN",
+			"RoomArea": 110,
+			"RoomPerimeter": 110,
+			"RoomHeight": 110
+		},
+		{
+			"id": 111,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 129,
+			"RoomName": "KAT OFİSİ",
+			"RoomArea": 111,
+			"RoomPerimeter": 111,
+			"RoomHeight": 111
+		},
+		{
+			"id": 112,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 130,
+			"RoomName": "BANYO",
+			"RoomArea": 112,
+			"RoomPerimeter": 112,
+			"RoomHeight": 112
+		},
+		{
+			"id": 113,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 131,
+			"RoomName": "ENGELLİ ODASI",
+			"RoomArea": 113,
+			"RoomPerimeter": 113,
+			"RoomHeight": 113
+		},
+		{
+			"id": 114,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 132,
+			"RoomName": "BANYO",
+			"RoomArea": 114,
+			"RoomPerimeter": 114,
+			"RoomHeight": 114
+		},
+		{
+			"id": 115,
+			"FloorName": "D-1.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 133,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 115,
+			"RoomPerimeter": 115,
+			"RoomHeight": 115
+		},
+		{
+			"id": 116,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 201,
+			"RoomName": "KAT HOLÜ",
+			"RoomArea": 116,
+			"RoomPerimeter": 116,
+			"RoomHeight": 116
+		},
+		{
+			"id": 117,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 202,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 117,
+			"RoomPerimeter": 117,
+			"RoomHeight": 117
+		},
+		{
+			"id": 118,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 203,
+			"RoomName": "BANYO",
+			"RoomArea": 118,
+			"RoomPerimeter": 118,
+			"RoomHeight": 118
+		},
+		{
+			"id": 119,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 204,
+			"RoomName": "BANYO",
+			"RoomArea": 119,
+			"RoomPerimeter": 119,
+			"RoomHeight": 119
+		},
+		{
+			"id": 120,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 205,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 120,
+			"RoomPerimeter": 120,
+			"RoomHeight": 120
+		},
+		{
+			"id": 121,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 206,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 121,
+			"RoomPerimeter": 121,
+			"RoomHeight": 121
+		},
+		{
+			"id": 122,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 207,
+			"RoomName": "BANYO",
+			"RoomArea": 122,
+			"RoomPerimeter": 122,
+			"RoomHeight": 122
+		},
+		{
+			"id": 123,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 208,
+			"RoomName": "BANYO",
+			"RoomArea": 123,
+			"RoomPerimeter": 123,
+			"RoomHeight": 123
+		},
+		{
+			"id": 124,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 209,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 124,
+			"RoomPerimeter": 124,
+			"RoomHeight": 124
+		},
+		{
+			"id": 125,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 210,
+			"RoomName": "YAN. MER.",
+			"RoomArea": 125,
+			"RoomPerimeter": 125,
+			"RoomHeight": 125
+		},
+		{
+			"id": 126,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 211,
+			"RoomName": "Y.G.H.",
+			"RoomArea": 126,
+			"RoomPerimeter": 126,
+			"RoomHeight": 126
+		},
+		{
+			"id": 127,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 212,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 127,
+			"RoomPerimeter": 127,
+			"RoomHeight": 127
+		},
+		{
+			"id": 128,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 213,
+			"RoomName": "BANYO",
+			"RoomArea": 128,
+			"RoomPerimeter": 128,
+			"RoomHeight": 128
+		},
+		{
+			"id": 129,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 214,
+			"RoomName": "BANYO",
+			"RoomArea": 129,
+			"RoomPerimeter": 129,
+			"RoomHeight": 129
+		},
+		{
+			"id": 130,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 215,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 130,
+			"RoomPerimeter": 130,
+			"RoomHeight": 130
+		},
+		{
+			"id": 131,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 216,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 131,
+			"RoomPerimeter": 131,
+			"RoomHeight": 131
+		},
+		{
+			"id": 132,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 217,
+			"RoomName": "BANYO",
+			"RoomArea": 132,
+			"RoomPerimeter": 132,
+			"RoomHeight": 132
+		},
+		{
+			"id": 133,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 218,
+			"RoomName": "BANYO",
+			"RoomArea": 133,
+			"RoomPerimeter": 133,
+			"RoomHeight": 133
+		},
+		{
+			"id": 134,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 219,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 134,
+			"RoomPerimeter": 134,
+			"RoomHeight": 134
+		},
+		{
+			"id": 135,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 220,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 135,
+			"RoomPerimeter": 135,
+			"RoomHeight": 135
+		},
+		{
+			"id": 136,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 221,
+			"RoomName": "BANYO",
+			"RoomArea": 136,
+			"RoomPerimeter": 136,
+			"RoomHeight": 136
+		},
+		{
+			"id": 137,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 222,
+			"RoomName": "BANYO",
+			"RoomArea": 137,
+			"RoomPerimeter": 137,
+			"RoomHeight": 137
+		},
+		{
+			"id": 138,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 223,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 138,
+			"RoomPerimeter": 138,
+			"RoomHeight": 138
+		},
+		{
+			"id": 139,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 224,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 139,
+			"RoomPerimeter": 139,
+			"RoomHeight": 139
+		},
+		{
+			"id": 140,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 225,
+			"RoomName": "BANYO",
+			"RoomArea": 140,
+			"RoomPerimeter": 140,
+			"RoomHeight": "16454"
+		},
+		{
+			"id": 141,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 226,
+			"RoomName": "BANYO",
+			"RoomArea": 141,
+			"RoomPerimeter": 141,
+			"RoomHeight": 141
+		},
+		{
+			"id": 142,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 227,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 142,
+			"RoomPerimeter": 142,
+			"RoomHeight": 142
+		},
+		{
+			"id": 143,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 228,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 143,
+			"RoomPerimeter": 143,
+			"RoomHeight": 143
+		},
+		{
+			"id": 144,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 229,
+			"RoomName": "BANYO",
+			"RoomArea": 144,
+			"RoomPerimeter": 144,
+			"RoomHeight": 144
+		},
+		{
+			"id": 145,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 230,
+			"RoomName": "BANYO",
+			"RoomArea": 145,
+			"RoomPerimeter": 145,
+			"RoomHeight": 145
+		},
+		{
+			"id": 146,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 231,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 146,
+			"RoomPerimeter": 146,
+			"RoomHeight": 146
+		},
+		{
+			"id": 147,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 232,
+			"RoomName": "ANA MERDİVEN",
+			"RoomArea": 147,
+			"RoomPerimeter": 147,
+			"RoomHeight": 147
+		},
+		{
+			"id": 148,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 233,
+			"RoomName": "KAT OFİSİ",
+			"RoomArea": 148,
+			"RoomPerimeter": 148,
+			"RoomHeight": 148
+		},
+		{
+			"id": 149,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 234,
+			"RoomName": "BANYO",
+			"RoomArea": 149,
+			"RoomPerimeter": 149,
+			"RoomHeight": 149
+		},
+		{
+			"id": 150,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 235,
+			"RoomName": "YATAK ODASI",
+			"RoomArea": 150,
+			"RoomPerimeter": 150,
+			"RoomHeight": 150
+		},
+		{
+			"id": 151,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 236,
+			"RoomName": "SUİT ODA",
+			"RoomArea": 151,
+			"RoomPerimeter": 151,
+			"RoomHeight": 151
+		},
+		{
+			"id": 152,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": 237,
+			"RoomName": "BANYO",
+			"RoomArea": 152,
+			"RoomPerimeter": 152,
+			"RoomHeight": 152
+		},
+		{
+			"id": 153,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "109'",
+			"RoomName": "PANO ODASI",
+			"RoomArea": 153,
+			"RoomPerimeter": 153,
+			"RoomHeight": 153
+		},
+		{
+			"id": 154,
+			"FloorName": "E-2.KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "211'",
+			"RoomName": "PANO ODASI",
+			"RoomArea": 154,
+			"RoomPerimeter": 154,
+			"RoomHeight": 154
+		},
+		{
+			"id": 155,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç01",
+			"RoomName": "YAN.MER.",
+			"RoomArea": 155,
+			"RoomPerimeter": 155,
+			"RoomHeight": 155
+		},
+		{
+			"id": 156,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç02",
+			"RoomName": "Y.G.H.",
+			"RoomArea": 156,
+			"RoomPerimeter": 156,
+			"RoomHeight": 156
+		},
+		{
+			"id": 157,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç02'",
+			"RoomName": "HOL",
+			"RoomArea": 157,
+			"RoomPerimeter": 157,
+			"RoomHeight": 157
+		},
+		{
+			"id": 158,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç03",
+			"RoomName": "PANO ODASI",
+			"RoomArea": 158,
+			"RoomPerimeter": 158,
+			"RoomHeight": 158
+		},
+		{
+			"id": 159,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç04",
+			"RoomName": "ANA MERDİVEN",
+			"RoomArea": 159,
+			"RoomPerimeter": 159,
+			"RoomHeight": 159
+		},
+		{
+			"id": 160,
+			"FloorName": "F-ÇATI KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Ç05",
+			"RoomName": "HOL",
+			"RoomArea": 160,
+			"RoomPerimeter": 160,
+			"RoomHeight": 160
+		},
+		{
+			"id": 161,
+			"FloorName": "G-TERAS KAT",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "T01",
+			"RoomName": "TERAS",
+			"RoomArea": 161,
+			"RoomPerimeter": 161,
+			"RoomHeight": 161
+		},
+		{
+			"id": 162,
+			"FloorName": "Z-ÇATI",
+			"BuildingName": "LİCE_ÖĞRETMEN_EVİ",
+			"RoomCode": "Z-ÇATI",
+			"RoomName": "ÇATI",
+			"RoomArea": 162,
+			"RoomPerimeter": 162,
+			"RoomHeight": 162
+		},
+		{
+			"id": 165,
+			"FloorName": "ADANA",
+			"BuildingName": "ADANA",
+			"RoomCode": "ADANA",
+			"RoomName": "ADANA",
+			"RoomArea": "ADANA",
+			"RoomPerimeter": "ADANA",
+			"RoomHeight": "ADANA"
+		},
+		{
+			"id": "588778",
+			"FloorName": "fdsfsgd",
+			"BuildingName": "sfgsdfhd",
+			"RoomCode": "dhffdgh",
+			"RoomName": "dfghdf",
+			"RoomArea": "5445",
+			"RoomPerimeter": "54545",
+			"RoomHeight": "46554"
+		},
+		{
+			"id": "43543534",
+			"FloorName": "fghdfg",
+			"BuildingName": "hfdgh",
+			"RoomCode": "dfghdfghd",
+			"RoomName": "fghdfgh",
+			"RoomArea": "546546",
+			"RoomPerimeter": "546456",
+			"RoomHeight": "456456546"
+		},
+		{
+			"id": "544554564654",
+			"FloorName": "dfgsdfgsdfgh",
+			"BuildingName": "sdfhsdghd",
+			"RoomCode": "ghdfgh",
+			"RoomName": "dfghdfg",
+			"RoomArea": "hfdghdf",
+			"RoomPerimeter": "ghdfghdf",
+			"RoomHeight": "ghdfghdfgh"
+		},
+		{
+			"id": "B1StR2b"
+		},
+		{
+			"Formula": "2",
+			"FloorName": "sdgsdfgh",
+			"BuildingName": "dfhdfgh",
+			"RoomCode": "fghdfg",
+			"RoomName": "hfdgh",
+			"RoomArea": "fdghfdg",
+			"RoomPerimeter": "hfdghfdgh",
+			"RoomHeight": "fdgh",
+			"id": "-C9Cupp"
+		},
+		{
+			"Formula": "1",
+			"FloorName": "dfghsdfh",
+			"BuildingName": "dghdfgh",
+			"RoomCode": "dfghdfg",
+			"RoomName": "hdfgh",
+			"RoomArea": "dfgjhdfgh",
+			"RoomPerimeter": "jfdghjfd",
+			"RoomHeight": "hgjfdhjfghdj",
+			"id": "fdoWEPi"
+		}
+	]
+}
